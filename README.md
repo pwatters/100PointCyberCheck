@@ -13,3 +13,5 @@ License terms:
 * Non-Commercial — You may not use the material for commercial purposes. You may use this tool for your own internal assessments, but you may not offer it to others as a commercial service. Registered charities and NFP organisations may use the tool to provide services to other charities and NFP organisations.
 
 * NoDerivatives — If you remix, transform, or build upon the material, you may not distribute the modified material. If you would like to contribute, update or correct the tool, please send your edits to research@cyberstronomy.com
+
+If you'd like to share deidentified results with the research team, please forward them to research@cyberstronomy.com. This will really help build the knowledge base for future research, and really help us measure the actual levels of cyber risk in Australia, and globally.
